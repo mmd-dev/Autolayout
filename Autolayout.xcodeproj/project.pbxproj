@@ -12,6 +12,7 @@
 		BAB73BBD1E7BF383009F3A6F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAB73BBB1E7BF383009F3A6F /* Main.storyboard */; };
 		BAB73BBF1E7BF383009F3A6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAB73BBE1E7BF383009F3A6F /* Assets.xcassets */; };
 		BAB73BC21E7BF383009F3A6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAB73BC01E7BF383009F3A6F /* LaunchScreen.storyboard */; };
+		BAB73BCA1E7C07C2009F3A6F /* user.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAB73BC91E7C07C2009F3A6F /* user.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BAB73BBE1E7BF383009F3A6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BAB73BC11E7BF383009F3A6F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BAB73BC31E7BF383009F3A6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BAB73BC91E7C07C2009F3A6F /* user.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = user.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				BAB73BB71E7BF383009F3A6F /* AppDelegate.swift */,
 				BAB73BB91E7BF383009F3A6F /* ViewController.swift */,
 				BAB73BBB1E7BF383009F3A6F /* Main.storyboard */,
+				BAB73BC91E7C07C2009F3A6F /* user.swift */,
 				BAB73BBE1E7BF383009F3A6F /* Assets.xcassets */,
 				BAB73BC01E7BF383009F3A6F /* LaunchScreen.storyboard */,
 				BAB73BC31E7BF383009F3A6F /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				BAB73BBA1E7BF383009F3A6F /* ViewController.swift in Sources */,
 				BAB73BB81E7BF383009F3A6F /* AppDelegate.swift in Sources */,
+				BAB73BCA1E7C07C2009F3A6F /* user.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
