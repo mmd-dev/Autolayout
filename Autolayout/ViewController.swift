@@ -31,7 +31,7 @@ class ViewController: UIViewController {
         //?:的用法是看高级运算符文档吗？
         nameLabel.text = loggedInUser?.name
         companyLabel.text = loggedInUser?.company
-        image = (loggedInUser?.image)!
+        image = loggedInUser?.image
     }
     
     @IBAction func login() {
