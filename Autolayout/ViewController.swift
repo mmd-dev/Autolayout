@@ -41,7 +41,8 @@ class ViewController: UIViewController {
     @IBAction func toggleSecurity() {
         secure = !secure
     }
-    var image: UIImage {
+    
+    var image: UIImage? {
         get {
             return imageView.image!
         }

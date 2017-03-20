@@ -69,7 +69,7 @@
                                 <rect key="frame" x="296.5" y="104" width="62.5" height="30"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                             </view>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="200" horizontalCompressionResistancePriority="749" verticalCompressionResistancePriority="700" image="1" translatesAutoresizingMaskIntoConstraints="NO" id="y1d-6i-R59">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="200" horizontalCompressionResistancePriority="749" verticalCompressionResistancePriority="700" image="lPear" highlightedImage="sApple" translatesAutoresizingMaskIntoConstraints="NO" id="y1d-6i-R59">
                                 <rect key="frame" x="16" y="142" width="265" height="505"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="800" text="company" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="idJ-2Q-8fb">
@@ -140,6 +140,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="1" width="2448" height="3264"/>
+        <image name="lPear" width="1500" height="1500"/>
+        <image name="sApple" width="2448" height="3264"/>
     </resources>
 </document>
